@@ -48,7 +48,7 @@ pip install python-whois colorama
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/0xchatblanc/whois-tool.git
+   git clone https://github.com/ch4tbl4nc/whois-tool.git
    cd whois-tool
    ```
 
@@ -150,7 +150,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Stay Connected
 
-Created with ❤️ by **0xchatblanc**. For questions or suggestions, feel free to reach out or contribute to the repository! 🌟
+Created with ❤️ by **ch4tbl4nc**. For questions or suggestions, feel free to reach out or contribute to the repository! 🌟
 
 ---
 
